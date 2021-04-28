@@ -1,0 +1,30 @@
+.array-container {
+  position:absolute;
+  left: 5%;
+  right: 5%;
+}
+
+.array-button{
+  position:absolute;
+  left:40%;
+  right:40%;
+  top: 600px;
+}
+
+.array-bar {
+  position: relative;
+  width: 6px;
+  display: inline-block;
+  margin: 1px;
+  top: 100px;
+}
+
+.text{
+  font: Arial;
+  color: rgb(53, 12, 19);
+  width: 30%;
+  position: absolute;
+  top: 0%;
+  left: 35%
+}
+
